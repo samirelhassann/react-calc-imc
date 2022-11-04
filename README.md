@@ -10,11 +10,10 @@ This is a project used for study purposes only • [Samir El Hassan](https://git
 
 ## Additional Libraries
 
-- Expo CLI
-
 ## Demo
 
-![demo1altered](https://user-images.githubusercontent.com/91634008/200045143-947e4bb8-4121-48e3-bc75-ae5b4a591bba.jpeg)  ![demo2altered](https://user-images.githubusercontent.com/91634008/200045526-743cd5e6-5a11-4dea-a2b5-e03819e0ecf6.jpeg)
+![image](https://user-images.githubusercontent.com/91634008/200045761-a3452103-b909-431b-a976-1c39c7f9779e.png)
+
 
 ## Instalation
 
